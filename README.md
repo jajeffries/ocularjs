@@ -42,7 +42,7 @@ This creates a folder called `ocular` in the directory in which the command is r
   },
   "selectorList": {
     "containerOne": "[data-container-one]",
-		"containerTwo": "[data-container-two]"
+    "containerTwo": "[data-container-two]"
   }
 }
 ```
